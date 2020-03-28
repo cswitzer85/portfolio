@@ -1,4 +1,5 @@
 import React from "react";
+import "./NavTabs.css";
 
 function NavTabs(props) {
   return (
@@ -32,21 +33,22 @@ function NavTabs(props) {
       </li>
       <li className="nav-item">
         <a
-          href="#github"
-          onClick={() => props.handlePageChange("github")}
-          className={props.currentPage === "github" ? "nav-link active" : "nav-link"}
+          href="#Resume"
+          onClick={() => props.handlePageChange("Resume")}
+          className={props.currentPage === "Resume" ? "nav-link active" : "nav-link"}
         >
-          github
+          Resume
         </a>
       </li>
       <li className="nav-item">
-        <a
-          href="#linkedin"
-          onClick={() => props.handlePageChange("linkedin")}
-          className={props.currentPage === "linkedin" ? "nav-link active" : "nav-link"}
-        >
-          linkedin
-        </a>
+          <a href="https://www.linkedin.com/in/cody-switzer-1429593a/"
+            ><i class="fab fa-linkedin"></i
+          ></a>
+      </li>
+      <li className="nav-item">
+          <a href="https://github.com/cswitzer85"
+            ><i class="fab fa-github-square"></i
+          ></a>
       </li>
     </ul>
   );
