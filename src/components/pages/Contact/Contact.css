@@ -1,3 +1,12 @@
-p, a, h1 {
-    margin-left: 20px;
+.card{
+    width: 20rem;
+}
+#myName{
+    text-align: center;
+}
+.subtitle{
+    padding-top: 1px;
+}
+a{
+    padding: 1.2rem;
 }
