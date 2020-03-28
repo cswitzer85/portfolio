@@ -1,6 +1,11 @@
-.carousel .slider-wrapper {
-    width: 50%;
+.carousel .slide img {
+    max-height: 600px; 
+    max-width: 1000px;
 }
-
+.carousel .thumb img {
+    width: 100% !important;
+    height: 100% !important;
+}
 .carousel.carousel-slider .control-arrow {
+        width: 48%;
 }
