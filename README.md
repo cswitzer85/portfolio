@@ -3,6 +3,7 @@ This portfolio is a map of my journey into the world of coding. It contains proj
 * [My Resume](https://docs.google.com/document/d/1qAGARoCOjh_8a_d3teaMyYCx6JeLeVV_4T7eKwMAqFI/edit?usp=sharing "Cody Switzer's Resume")
 * [My Linked In](https://www.linkedin.com/in/cody-switzer-1429593a/ "View Cody Switzer on Linked In")
 * [My GitHub](https://github.com/cswitzer85 "View Cody Switzer on GitHub")
+* [Launch Hosted Portfolio](https://cswitzer85.github.io/portfolio/ "Cody's Portfolio")
 
 ## Table of Contents
 
