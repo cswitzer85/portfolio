@@ -44,13 +44,13 @@ const Home = () => {
         </a>
       </div>
       <div>
-        <img src="https://raw.githubusercontent.com/cswitzer85/Basic-Portfolio/master/Assets/project2MemberPage.png" />
-        <a href="Launch Hosted Application">
+        <img src="https://raw.githubusercontent.com/cswitzer85/Basic-Portfolio/master/Assets/BurgerScreenShot.png" />
+        <a href="https://frozen-ridge-41699.herokuapp.com/">
           <p className="legend" id="legend7">Launch Burger App</p>
         </a>
       </div>
       <div>
-        <img src="https://raw.githubusercontent.com/cswitzer85/Basic-Portfolio/master/Assets/BurgerScreenShot.png" />
+        <img src="https://raw.githubusercontent.com/cswitzer85/Basic-Portfolio/master/Assets/project2MemberPage.png" />
         <a href="https://project2-cody-gen-leo.herokuapp.com/">
           <p className="legend" id="legend8">Launch Blog App</p>
         </a>
