@@ -1,4 +1,44 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Basic-Portfolio
+This portfolio is a map of my journey into the world of coding. It contains projects that have aided in my learning process, some basic information about me as well as ways to connect with me, including a link to the following.  
+* [My Resume](https://docs.google.com/document/d/1qAGARoCOjh_8a_d3teaMyYCx6JeLeVV_4T7eKwMAqFI/edit?usp=sharing "Cody Switzer's Resume")
+* [My Linked In](https://www.linkedin.com/in/cody-switzer-1429593a/ "View Cody Switzer on Linked In")
+* [My GitHub](https://github.com/cswitzer85 "View Cody Switzer on GitHub")
+
+## Table of Contents
+
+* [About the Project](#About-the-project)
+* [Getting Started](#Getting-started)
+  * [Prerequisites](#Prerequisites)
+  * [Installation](#Installation)
+* [Usage](#Usage)
+* [Contributing](#Contributing)
+* [Contact](#Contact)
+<!-- * [License(s)](#License(s))
+* [Acknowledgements](#Acknowledgements) -->
+* [React Info](#Available-Scripts)
+
+## About the Project
+    This project is ongoing and will be updated periodically as other (public) projects are completed.
+
+## Getting Started
+Visit my portfolio main page to view some of my favorite projects.
+* [portfolio](https://cswitzer85.github.io/portfolio/ "Cody Switzer's portfolio")
+
+## Usage
+    This webiste operates just like any other website, click on the links to view different content.
+
+## Contributing
+This project is an ongoing representation of my personal progress. If you'd like to extend advise or comment on the project, please use the contact information below.
+
+
+## Contact
+GitHub user name:   [cswitzer85](https://github.com/cswitzer85 "cswitzer85's GitHub")  
+Cody Switzer on:    [Linked In](https://www.linkedin.com/in/cody-switzer-1429593a/ "cody-switzer-1429593a's Linked In")  
+e-mail:             cswitzer85@gmail.com  
+
+<!-- ## License(s) -->
+
+<!-- ## Acknowledgements -->This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
