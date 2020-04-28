@@ -56,9 +56,9 @@ const Home = () => {
         </a>
       </div>
       <div>
-        <img src="https://image.freepik.com/free-vector/coming-soon-neon-sign-vector-brick-wall-background_118419-102.jpg" />
-        <a href="https://github.com/cswitzer85">
-          <p className="legend" id="legend9">Coming Soon</p>
+        <img src="https://raw.githubusercontent.com/cswitzer85/project3/development/assets/project3MainPage.png" />
+        <a href="https://pizza-app-p3.herokuapp.com/">
+          <p className="legend" id="legend9">ZaLat Pizza App</p>
         </a>
       </div>
     </Carousel>

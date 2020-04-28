@@ -33,22 +33,17 @@ function NavTabs(props) {
       </li>
       <li className="nav-item">
         <a
-          href="#Resume"
-          onClick={() => props.handlePageChange("Resume")}
-          className={props.currentPage === "Resume" ? "nav-link active" : "nav-link"}
-        >
+          href="https://docs.google.com/document/d/1qAGARoCOjh_8a_d3teaMyYCx6JeLeVV_4T7eKwMAqFI/edit">
           Resume
         </a>
       </li>
       <li className="nav-item">
           <a href="https://www.linkedin.com/in/cody-switzer-1429593a/"
-            ><i class="fab fa-linkedin"></i
-          ></a>
+            ><i class="fab fa-linkedin"></i></a>
       </li>
       <li className="nav-item">
           <a href="https://github.com/cswitzer85"
-            ><i class="fab fa-github-square"></i
-          ></a>
+            ><i class="fab fa-github-square"></i></a>
       </li>
     </ul>
   );
