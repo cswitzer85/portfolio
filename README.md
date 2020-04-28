@@ -26,7 +26,7 @@ Visit my portfolio main page to view some of my favorite projects.
 * [portfolio](https://cswitzer85.github.io/portfolio/ "Cody Switzer's portfolio")
 
 ## Usage
-    This webiste operates just like any other website, click on the links to view different content.
+    This webiste operates just like any other website, click on the links to view different content. The `resume`, `GitHub` & `LinkedIn` tabs will take you to the associated websites.
 
 ## Contributing
 This project is an ongoing representation of my personal progress. If you'd like to extend advise or comment on the project, please use the contact information below.
