@@ -1,4 +1,4 @@
-# Basic-Portfolio
+# Portfolio
 This portfolio is a map of my journey into the world of coding. It contains projects that have aided in my learning process, some basic information about me as well as ways to connect with me, including a link to the following.  
 * [My Resume](https://docs.google.com/document/d/1qAGARoCOjh_8a_d3teaMyYCx6JeLeVV_4T7eKwMAqFI/edit?usp=sharing "Cody Switzer's Resume")
 * [My Linked In](https://www.linkedin.com/in/cody-switzer-1429593a/ "View Cody Switzer on Linked In")
@@ -18,7 +18,7 @@ This portfolio is a map of my journey into the world of coding. It contains proj
 * [React Info](#Available-Scripts)
 
 ## About the Project
-    This project is ongoing and will be updated periodically as other (public) projects are completed.
+    In 2019 I made the decision to learn a new skillset. Through the challenging coursework provided by Southern Methodist University I have found a new calling, this portfolio shows my milestones and the progress made up to course completion.
 
 ## Getting Started
 Visit my portfolio main page to view some of my favorite projects.
